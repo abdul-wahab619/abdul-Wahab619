@@ -1,18 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Wahab a Computer Science Student.</h1>
-<h3 align="center">A passionate Backend Developer and Data Analyst from Pakistan</h3>
+<h3 align="center">A passionate and Creative Frontend Developer.</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-wahab619&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-wahab619" /> </p>
 
 - 👀 I’m interested in learning **programming languages with some unique projects.**
 
-- 🌱 I’m currently learning **Python, Django Framework**
+- 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **on any backend coding projects**
+- 👯 I’m looking to collaborate on **on any Frontkend coding projects**
 
-- 🌱 I’m had learned **web designing (HTML5, CSS, JavaScript)for backend (C,C++,JAVA and Assembly language).**
+- 🌱 I’m had learned **web designing (HTML5, CSS, JavaScript,React Js, Node JS)for backend (C,C++,JAVA and Assembly language).**
 
-- 💬 Ask me about **C, C++, Java, Assembly X86 and Python**
+- 💬 Ask me about **JavaScript, TypeScript, React Js**
 
 - 📫 How to reach me **awminahas619@gmail.com**
 
@@ -20,7 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abdulwa08918535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulwa08918535" height="30" width="40" /></a>
 <a href="https://fb.com/bit.ly/3sq2pmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bit.ly/3sq2pmm" height="30" width="40" /></a>
 <a href="https://instagram.com/abdu_lwahab619" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdu_lwahab619" height="30" width="40" /></a>
 </p>
