@@ -1,4 +1,4 @@
-![logo](https://github.com/abdul-wahab619/abdul-Wahab619/blob/main/Github%20Banner.png)
+![logo](https://github.com/abdul-wahab619/abdul-Wahab619/blob/main/Github%20Banner1.png)
 <h1 align="center">Hi 👋, I'm Abdul Wahab a Computer Science Student.</h1>
 <h3 align="center">A passionate full-stack developer from Pakistan</h3>
 
