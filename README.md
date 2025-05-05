@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Reactjs, Nodejs, Expressjs, MongoDB, React-Native, MachineLearning**
 
-- 📫 How to reach me **awminhas619@gmail.com**
+- 📫 How to reach me **abdulwahab.sengineer@gmail.com**
 
 - 📄 Know about my experiences [Link-Tree](https://linktr.ee/mr.abdulwahab.aw)
 
